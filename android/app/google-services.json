@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681163721810",
+    "project_id": "dezofooddeleivery",
+    "storage_bucket": "dezofooddeleivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681163721810:android:89fb3f4cdfb9d2b23aa38b",
+        "android_client_info": {
+          "package_name": "com.smartersvision.deliveryboyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681163721810-qrb3dblmad4m9pjd8d2b8nilagr8qiip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhjUll0tJu7v4xsvyLbXoBz32f_xMlS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681163721810-qrb3dblmad4m9pjd8d2b8nilagr8qiip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
